@@ -1,0 +1,94 @@
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\ApplicationInsights.config
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.Security.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Web.Infrastructure.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Newtonsoft.Json.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Owin.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Microsoft.Owin.Security.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\bin\Newtonsoft.Json.xml
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+c:\users\begovicteam\documents\visual studio 2015\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\ApplicationInsights.config
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.Security.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Newtonsoft.Json.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Owin.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.Web.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Owin.Security.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\bin\Newtonsoft.Json.xml
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\emre\Desktop\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
